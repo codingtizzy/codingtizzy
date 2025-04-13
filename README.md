@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codingtizzy
-- 👀 I’m interested in coding and making programs for things people never realized they needed.
+- 👀 I’m interested in coding and making things people never realized they needed.
 - 🌱 I’m currently learning C++ & Python
 - 💞️ I’m looking to collaborate on some sort of long term project on VS.
 - 📫 Reach me on Discord: tizzyiwnl
