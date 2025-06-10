@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @codingtizzy
+- 👋 Hi, I’m @zivxyz
 - 👀 I’m interested in coding and making things people never realized they needed.
 - 🌱 I’m currently learning C++ & Python
 - 💞️ I’m looking to collaborate on some sort of long-term project on exploits.
-- 📫 Reach me on Discord: tizzyiwnl
+- 📫 Reach me on Discord: zivxyz
 - ⚡ Fun fact: I play lots of Fortnite.
 
 <!---
